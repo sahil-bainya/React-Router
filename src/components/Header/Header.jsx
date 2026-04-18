@@ -9,7 +9,7 @@ export default function Header() {
         <div className={styles.container}>
           <Link to="/" className={styles.logoWrapper}>
             <img
-              src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+              src="https://res.cloudinary.com/datjhn3ph/image/upload/v1776508649/Gemini_Generated_Image_l7guggl7guggl7gu_copy_tl1k0l.png"
               className={styles.logo}
               alt="Logo"
             />

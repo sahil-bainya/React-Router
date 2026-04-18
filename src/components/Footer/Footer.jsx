@@ -14,7 +14,7 @@ export default function Footer() {
           <div className={styles.logoWrapper}>
             <Link to="/" className={styles.logoLink}>
               <img
-                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                src="https://res.cloudinary.com/datjhn3ph/image/upload/v1776508649/Gemini_Generated_Image_l7guggl7guggl7gu_copy_tl1k0l.png"
                 className={styles.logo}
                 alt="Logo"
               />
@@ -43,7 +43,7 @@ export default function Footer() {
               <ul className={styles.list}>
                 <li className={styles.listItem}>
                   <a
-                    href="https://github.com/hiteshchoudhary"
+                    href="https://github.com/the2rivage"
                     className={styles.link}
                     target="_blank"
                     rel="noreferrer"
@@ -84,12 +84,12 @@ export default function Footer() {
         <div className={styles.bottomSection}>
           
           <span className={styles.copyright}>
-            © 2023{" "}
+            © 2026{" "}
             <a
               href="https://hiteshchoudhary.com/"
               className={styles.link}
             >
-              hiteshchoudhary
+              sahilbainya
             </a>{" "}
             . All Rights Reserved.
           </span>

@@ -17,20 +17,17 @@ export default function Contact() {
               <div className={styles.infoRow}>
                 <svg className={styles.icon} />
                 <div className={styles.infoText}>
-                  Acme Inc, Street, State, Postal Code
+                  Bhopal , India
                 </div>
               </div>
 
               {/* Phone */}
-              <div className={styles.infoRowSmall}>
-                <svg className={styles.icon} />
-                <div className={styles.infoText}>+44 1234567890</div>
-              </div>
+              
 
               {/* Email */}
               <div className={styles.infoRowTiny}>
                 <svg className={styles.icon} />
-                <div className={styles.infoText}>info@acme.org</div>
+                <div className={styles.infoText}>sahilbainya2005@gmail.com</div>
               </div>
             </div>
 
