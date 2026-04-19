@@ -72,7 +72,7 @@ src/
 │   └── User.jsx
 │
 ├── hooks/
-│   └── useCurrencyInfo.js (if used)
+│   └── useCurrencyInfo.js 
 │
 ├── api.js
 ├── Layout.jsx
