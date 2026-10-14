@@ -91,23 +91,4 @@ npm install
 npm run dev
 ```
 
----
 
-## 🧠 What I Learned
-
-* How routing works in React
-* How to create layout using `Outlet`
-* How to fetch data using loaders
-* How to handle dynamic routes
-* Structuring a React application
-
----
-
-## 👨‍💻 Author
-
-**Sahil Bainya**
----
-
-## ⭐ Show your support
-
-If you like this project, give it a ⭐ on GitHub!
